@@ -1,7 +1,7 @@
 # Candy AI Clone
 [![Buy Candy AI Clone Now](https://img.shields.io/badge/Buy%20Now-black)](https://tripleminds.co/white-label/candy-ai-clone/)
 [![Email](https://img.shields.io/badge/Email-red)](mailto:sales@tripleminds.co)
-[![Source Code](https://img.shields.io/badge/Source%20Code-gray)](https://github.com/nsfwcoders/candy-ai-clone/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-gray)]([NSFW Coders](https://nsfwcoders.com/)/)
 [![Download](https://img.shields.io/badge/Download-gold)](https://tripleminds.co/white-label/candy-ai-clone/)
 Candy AI Clone – Features, Development Process & Future of AI Companionship
 
