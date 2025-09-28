@@ -222,9 +222,6 @@ The interface supports multiple languages along with dark and light modes, offer
 ### Notification Control
 Users can set custom alerts for new messages, system updates, or offers, tailoring notifications to their schedule.
 
-<iframe src="https://tripleminds.co/white-label/candy-ai-clone/" title="Candy AI Clone Demo">
-</iframe>
-
 ## Candy AI Chatbot Clone Development Process: 4 Quick Steps to Follow
 Hire a reliable custom AI development company to build a Candy AI chatbot clone with utmost precision and accuracy.
 
