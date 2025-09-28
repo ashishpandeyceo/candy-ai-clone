@@ -141,4 +141,4 @@ At Triple Minds, we don’t just replicate Candy AI—we redefine it with scalab
 
 ##  Partner with Triple Minds and Create the Next Big Candy AI Clone.
 We promise cost-optimized, future-proof, and scalable AI companion solutions that help your business stand out in the rapidly growing companionship industry.
-Read in Deatail on (candy-ai-clone demo)[https://github.com/ashishpandeyceo/candy-ai-clone/edit/main/candy-ai-clone-demo.md]
+Read in Deatail on [candy-ai-clone demo](https://github.com/ashishpandeyceo/candy-ai-clone/edit/main/candy-ai-clone-demo.md)
